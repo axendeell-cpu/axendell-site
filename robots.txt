@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /panel/
+Disallow: /click.php
+Disallow: /setup.php
+Disallow: /db.php
+
+Sitemap: https://www.axendell.com/sitemap.xml.php
